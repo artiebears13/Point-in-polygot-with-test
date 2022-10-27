@@ -3,4 +3,9 @@ project(anna)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(anna main.cpp test.cpp)
+
+
+
+add_subdirectory(lib/gtest)
+add_subdirectory(test)
+add_executable(anna main.cpp)

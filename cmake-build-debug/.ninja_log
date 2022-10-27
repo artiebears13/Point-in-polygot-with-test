@@ -1,3 +1,5 @@
 # ninja log v5
-3	679	6885961050808235	CMakeFiles/anna.dir/main.cpp.obj	b0b0ff97399c7bf2
-680	829	6885961052274428	anna.exe	b4e2f3c42daa9cab
+1634	2028	6886018436536401	anna.exe	b4e2f3c42daa9cab
+6	1633	6886018432658262	CMakeFiles/anna.dir/main.cpp.obj	b0b0ff97399c7bf2
+1	4765	6886019256512164	build.ninja	ce841e45ec1d043b
+1	14409	6886019547742842	lib/gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	704e79e08a7d1be4

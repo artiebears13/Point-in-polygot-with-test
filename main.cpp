@@ -21,7 +21,7 @@ bool is_inside_poly(double &x, double &y, std::vector<double> &xarr, std::vector
         if (y == yarr[i] || y == yarr[i + 1])
         {
             if (x <= xarr[i + 1] && x >= xarr[i] || x >= xarr[i + 1] && x <= xarr[i]) {
-                std::cout << "The point (x, y) is on the edge of the poly" << std::endl;
+                std::cout << "The point (x, y) is on the edge of the poly 2" << std::endl;
                 exit(0);
             }
         }
